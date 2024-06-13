@@ -1,0 +1,62 @@
+FlanT5-large-k=3
+Entity Match Score: 1.0
+Timeline Match Score: 0.6853408029878618
+F1 Score: 1.0
+Time Metric: 0.0
+Completeness Score: 1.0
+
+FlanT5-large-k=5
+Entity Match Score: 0.4719562243502052
+Timeline Match Score: 0.549197456760482
+F1 Score: 0.6503359251470595
+Time Metric: 1.6887218045112782
+Completeness Score: 0.8585980902309259
+
+
+
+FlanT5-large-k=7
+Entity Match Score: 0.2968536251709986
+Timeline Match Score: 0.41216068919150134
+F1 Score: 0.43562005512216384
+Time Metric: 2.5089285714285716
+Completeness Score: 0.7368676494202562
+
+FlanT5-large-k=10
+Entity Match Score: 0.12038303693570451
+Timeline Match Score: 0.18690065251689905
+F1 Score: 0.18328995262645265
+Time Metric: 5.364485981308412
+Completeness Score: 0.5989552960999039
+
+
+FlanT5-XL-k=3
+Entity Match Score: 0.16963064295485636
+Timeline Match Score: 0.3103038858641097
+F1 Score: 0.35382636677402535
+Time Metric: 3.742690058479532
+Completeness Score: 0.6828093445720084
+
+
+FlanT5-XL-k=5
+Entity Match Score: 0.18878248974008208
+Timeline Match Score: 0.30556313434464666
+F1 Score: 0.33702358377565395
+Time Metric: 4.187134502923977
+Completeness Score: 0.6774586315860555
+
+
+FlanT5-XL-k=7
+Entity Match Score: 0.1436388508891929
+Timeline Match Score: 0.2851271148189916
+F1 Score: 0.26859461526202316
+Time Metric: 4.9721706864564
+Completeness Score: 0.6472605921202628
+
+
+
+FlanT5-XL-k=10
+Entity Match Score: 0.07113543091655267
+Timeline Match Score: 0.2217353944944981
+F1 Score: 0.16831609640270248
+Time Metric: 6.419064748201439
+Completeness Score: 0.5779583311043701
