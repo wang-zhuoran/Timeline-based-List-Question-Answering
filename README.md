@@ -29,5 +29,5 @@ Our project contain multiple subtask, you can click the different subtitle to ch
  - Similar to RAG, we introduce a Temporal Relevance metric and find temporal similarity.
  - Combine the retrieved text, the time marker, and the original question as the prompt.
 
- ### [**Evaluation Metrics**](https://github.com/wang-zhuoran/Timeline-based-List-Question-Answering/tree/TempRet)
+ ### [**Evaluation Metrics**](https://github.com/wang-zhuoran/Timeline-based-List-Question-Answering/blob/main/evaluate/compute_metrics.ipynb)
  - Introduce Entity Match Metric, Timeline Match Metric, F1 Metric, Absolute Time Differences  Metric, Completeness Metric
