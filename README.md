@@ -4,7 +4,7 @@ Hi everyone! It is our NLP course work in LLM, with author: [Box](https://github
 
 ## Project Introduction
 <div align=center>
-   <img src="NLP-main-fig.png">
+   <img src="NLP-main-fig-modify_1.png">
 </div>
 
 
