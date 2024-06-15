@@ -1,6 +1,6 @@
 # Timeline-based-List-Question-Answering
 
-Hi everyone! It is our NLP course work in LLM, with author: [Box](https://github.com/baimuchu), [MeowDai](https://github.com/MeowDai), [Zhuoran](https://github.com/wang-zhuoran), [Barry](https://github.com/Bzz77). If you have any question, you can contact Me ([Box](https://github.com/baimuchu)).
+Hi everyone! It is our NLP project in LLM, with authors: [Box](https://github.com/baimuchu), [MeowDai](https://github.com/MeowDai), [Zhuoran](https://github.com/wang-zhuoran), [Barry](https://github.com/Bzz77). If you have any questions, you can contact Me ([Box](https://github.com/baimuchu)).
 
 ## Project Introduction
 <div align=center>
@@ -10,8 +10,8 @@ Hi everyone! It is our NLP course work in LLM, with author: [Box](https://github
 
 We implemented in Timeline-based-List-Question-Answering problem, specifically the desire to be able to generate structured QA, by using a question and answer [dataset](https://github.com/VenkteshV/TLQA_NLP_Porject/) containing time.
 
-## Project Strcture
-Our project contain multiple subtask, you can click the different subtitle to check different Task.
+## Project Structure
+Our project contains multiple subtasks, you can click the different subtitles to check different Tasks.
 
 ### [**KNN Few-shot**](https://github.com/wang-zhuoran/Timeline-based-List-Question-Answering/tree/KNN)
  - KNN: K is top-k, and NN means Nearest Neighbour based on cosine similarity.
